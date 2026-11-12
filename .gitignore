@@ -1,0 +1,32 @@
+# Unity generated files
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+**/[Bb]uilds/
+**/tmp/
+**/bin/
+**/MemoryCaptures/
+**/Recordings/
+
+# Generated IDE files (keep the helper's authored .csproj)
+.vs/
+.idea/
+.vscode/
+/*.csproj
+/*.sln
+/*.slnx
+/WebGL_Project/*.csproj
+/WebGL_Project/*.sln
+/WebGL_Project/*.slnx
+*.suo
+*.user
+*.log
+*.zip
+*.7z
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example

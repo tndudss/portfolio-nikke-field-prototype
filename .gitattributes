@@ -1,0 +1,15 @@
+* text=auto
+*.cs text
+*.meta text
+*.unity text
+*.prefab text
+*.png -text
+*.jpg -text
+*.fbx -text -diff
+*.ttf -text -diff
+*.otf -text -diff
+*.dll -text -diff
+*.exe -text -diff
+*.pdb -text -diff
+*.wasm -text -diff
+*.data -text -diff

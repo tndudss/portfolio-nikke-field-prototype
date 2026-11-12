@@ -1,0 +1,5 @@
+<linker>
+  <assembly fullname="UnityEngine.ContentLoadModule" ignoreIfMissing="1">
+    <type fullname="Unity.Loading.ContentLoadingSystem" preserve="all" />
+  </assembly>
+</linker>
