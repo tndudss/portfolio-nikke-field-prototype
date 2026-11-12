@@ -1,12 +1,14 @@
-# 니케 필드 프로토타입 — Night City Event Field
+# [개인 포트폴리오] 니케 필드 프로토타입 — Night City Event Field
 
-승리의 여신: 니케 × 사이버펑크 엣지러너 콜라보 이벤트 필드 기획을 Unity로 구현한 프로토타입입니다. 이 저장소는 **2026-10-29 최종 동결본**의 에디터용 소스와 Windows·WebGL 실행 빌드를 제공합니다.
+> **비공식 개인 포트폴리오입니다.** 원작 게임·IP의 공식 개발·서비스·배포와 무관한 프로토타입입니다.
+
+승리의 여신: 니케 × 사이버펑크 엣지러너를 소재로 작성한 콜라보 이벤트 필드 기획을 Unity로 구현한 개인 포트폴리오용 프로토타입입니다. 이 저장소는 **2026-10-29 최종 동결본**의 에디터용 소스와 Windows·WebGL 실행 빌드를 제공합니다.
 
 ## 플레이 및 다운로드
 
 | 용도 | 링크 |
 | --- | --- |
-| PC 브라우저에서 플레이 | [Night City Event Field](https://night-city-event-field-prototype.tndudss78.chatgpt.site/) |
+| PC 브라우저에서 플레이 | [Night City Event Field](https://nikke-edgerunners-event-field-prototype.tndudss78.chatgpt.site/) |
 | Windows 실행 파일 다운로드 | [Windows 최종 동결본 ZIP](https://github.com/tndudss/nikke-field-prototype/releases/download/final-2026-10-29/NIKKE_Field_Windows_Final_2026-10-29.zip) |
 | 웹 빌드 다운로드 | [WebGL 최종 동결본 ZIP](https://github.com/tndudss/nikke-field-prototype/releases/download/final-2026-10-29/NIKKE_Field_WebGL_Final_2026-10-29.zip) |
 | Unity 에디터용 소스 | 이 저장소를 클론하거나 **Code → Download ZIP** |
