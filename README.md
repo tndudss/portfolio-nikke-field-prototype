@@ -9,8 +9,8 @@
 | 용도 | 링크 |
 | --- | --- |
 | PC 브라우저에서 플레이 | [Night City Event Field](https://nikke-edgerunners-event-field-prototype.tndudss78.chatgpt.site/) |
-| Windows 실행 파일 다운로드 | [Windows 최종 동결본 ZIP](https://github.com/tndudss/nikke-field-prototype/releases/download/final-2026-10-29/NIKKE_Field_Windows_Final_2026-10-29.zip) |
-| 웹 빌드 다운로드 | [WebGL 최종 동결본 ZIP](https://github.com/tndudss/nikke-field-prototype/releases/download/final-2026-10-29/NIKKE_Field_WebGL_Final_2026-10-29.zip) |
+| Windows 실행 파일 다운로드 | [Windows 최종 동결본 ZIP](https://github.com/tndudss/portfolio-nikke-field-prototype/releases/download/final-2026-10-29/NIKKE_Field_Windows_Final_2026-10-29.zip) |
+| 웹 빌드 다운로드 | [WebGL 최종 동결본 ZIP](https://github.com/tndudss/portfolio-nikke-field-prototype/releases/download/final-2026-10-29/NIKKE_Field_WebGL_Final_2026-10-29.zip) |
 | Unity 에디터용 소스 | 이 저장소를 클론하거나 **Code → Download ZIP** |
 
 바탕화면의 초기 창모드 빌드 이후, 스토리 색상·안티앨리어싱·메인타워 LED 개선을 반영한 최종본을 기준으로 합니다.
