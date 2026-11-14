@@ -8,6 +8,8 @@
 
 | 용도 | 링크 |
 | --- | --- |
+| 필드 시연 영상 | [필드 프로토타입 영상 보기](https://drive.google.com/file/d/1u7ks0fglLtynPD7OxoIQCxGK3Aci44nE/view) |
+| 미니게임 시연 영상 | [NET RUNNER 프로토타입 영상 보기](https://drive.google.com/file/d/1ZIEZVbG_uHhFC_XMBLG1LuXq1nSX5QFC/view) |
 | PC 브라우저에서 플레이 | [Night City Event Field](https://nikke-edgerunners-event-field-prototype.tndudss78.chatgpt.site/) |
 | Windows 실행 파일 다운로드 | [Windows 최종 동결본 ZIP](https://github.com/tndudss/portfolio-nikke-field-prototype/releases/download/final-2026-10-29/NIKKE_Field_Windows_Final_2026-10-29.zip) |
 | 웹 빌드 다운로드 | [WebGL 최종 동결본 ZIP](https://github.com/tndudss/portfolio-nikke-field-prototype/releases/download/final-2026-10-29/NIKKE_Field_WebGL_Final_2026-10-29.zip) |
