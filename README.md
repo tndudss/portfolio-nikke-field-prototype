@@ -6,13 +6,7 @@
 
 ## 시연 영상
 
-### 필드
-
 https://github.com/user-attachments/assets/f04883f0-1f5d-41bc-81fd-b73b024fc6cc
-
-### NET RUNNER
-
-https://github.com/user-attachments/assets/74072249-376d-4628-b53d-10e3ab1bc404
 
 ## 플레이 및 다운로드
 
