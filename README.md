@@ -4,12 +4,20 @@
 
 승리의 여신: 니케 × 사이버펑크 엣지러너를 소재로 작성한 콜라보 이벤트 필드 기획을 Unity로 구현한 개인 포트폴리오용 프로토타입입니다. 이 저장소는 **2026-10-29 최종 동결본**의 에디터용 소스와 Windows·WebGL 실행 빌드를 제공합니다.
 
+## 시연 영상
+
+### 필드
+
+https://github.com/user-attachments/assets/f4bc13e5-f9e8-43e1-9651-eeee7d05e48f
+
+### NET RUNNER
+
+https://github.com/user-attachments/assets/3bbf8520-d5f2-42a0-9843-55d9d84aa380
+
 ## 플레이 및 다운로드
 
 | 용도 | 링크 |
 | --- | --- |
-| 필드 시연 영상 | [필드 프로토타입 영상 보기](https://drive.google.com/file/d/1u7ks0fglLtynPD7OxoIQCxGK3Aci44nE/view) |
-| 미니게임 시연 영상 | [NET RUNNER 프로토타입 영상 보기](https://drive.google.com/file/d/1ZIEZVbG_uHhFC_XMBLG1LuXq1nSX5QFC/view) |
 | PC 브라우저에서 플레이 | [Night City Event Field](https://nikke-edgerunners-event-field-prototype.tndudss78.chatgpt.site/) |
 | Windows 실행 파일 다운로드 | [Windows 최종 동결본 ZIP](https://github.com/tndudss/portfolio-nikke-field-prototype/releases/download/final-2026-10-29/NIKKE_Field_Windows_Final_2026-10-29.zip) |
 | 웹 빌드 다운로드 | [WebGL 최종 동결본 ZIP](https://github.com/tndudss/portfolio-nikke-field-prototype/releases/download/final-2026-10-29/NIKKE_Field_WebGL_Final_2026-10-29.zip) |
